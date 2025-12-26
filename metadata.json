@@ -1,0 +1,8 @@
+{
+  "name": "Archit-Lock Social",
+  "description": "An anonymous-first discussion platform with stance-based interactions, time-decay ranking, and AI-powered identity generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
